@@ -14,7 +14,7 @@ Libraries are loaded from Maven.
 5. Once it indexes, the project should be ready to go! :)
 
 ### Building
-To build a working .jar file, which later can be put to `/versions` in MC folder, you just need to run `mvn clean package` command.
+<br>To build a working .jar file, which later can be put to `/versions` in MC folder, you just need to run `mvn clean package` command.<br>
 <br>You can also use the Maven menu *on the right side*, or add a new run configuration, and run it from there (my favourite way).<br>
 <br>Once the process is complete, artifacts will be in `/target` directory.<br>
 <br>There's no requirement to delete MANIFEST from the jar before putting to MC folder.<br>
