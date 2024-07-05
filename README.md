@@ -1,7 +1,7 @@
 # Vestige v3.0 Maven MCP and Updated Optifine Edition
 
 ### About
-Vestige-v3.0 is based on Maven MCP 1.8.9 which is an updated version of MCP. It has a clean code structure, supports Linux and version control in your projects! (regular old MCP also supports linux macos windows idk why they said that)
+Vestige-v3.0 is based on Maven MCP 1.8.9 which is an updated version of MCP. It has a clean code structure, supports Linux and version control in your projects! (regular old MCP also supports linux macos windows idk why they said that) 
 
 ### About the structure
 The code is split into two groups: Resources (assets, graphics, shaders etc.) and code.
@@ -21,6 +21,15 @@ To build a working .jar file, which later can be put to `/versions` in MC folder
 
 ### Running
 To launch the client in the IDE, you need to execute Start.java, **and specify working directory to `./test_run/`**.
+
+### Credits
+FontRenderer: "https://github.com/Godwhitelight/FontRenderer"
+Lombok: "https://projectlombok.org/"
+
+### DMCA Takedown
+Contact me at github.progress070@slmails.com
+Please allow up to 10 business days for a reply
+I'll take down the resource
 
 An example run configuration.
 <img src="https://developers.marcloud.net/i/launchConfig.png"/>
