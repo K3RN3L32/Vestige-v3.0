@@ -10,7 +10,7 @@ Libraries are loaded from Maven.
 ### Setting up workspace
 1. Clone the repository
 2. Let it setup and index (just wait)
-4. Specify project SDK to **Java 8** It might not work with other versions of JDK
+4. Specify project SDK to any Full JDK higher than **Java 8** and set Language Level to **8 Lambdas, type annotations etc.**
 5. Once it indexes, the project should be ready to go! :)
 
 ### Building
