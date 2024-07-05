@@ -25,6 +25,8 @@ To launch the client in the IDE, you need to execute Start.java, **and specify w
 ### Credits
 FontRenderer: "https://github.com/Godwhitelight/FontRenderer"
 Lombok: "https://projectlombok.org/"
+Maven MCP: "https://github.com/Marcelektro/MavenMCP-1.8.9"
+Optifine: "https://optifine.net/copyright"
 
 ### DMCA Takedown
 Contact me at github.progress070@slmails.com<br>
