@@ -15,9 +15,9 @@ Libraries are loaded from Maven.
 
 ### Building
 To build a working .jar file, which later can be put to `/versions` in MC folder, you just need to run `mvn clean package` command.
-<br>You can also use the Maven menu *on the right side*, or add a new run configuration, and run it from there (my favourite way).
-<br>Once the process is complete, artifacts will be in `/target` directory.
-<br>There's no requirement to delete MANIFEST from the jar before putting to MC folder.
+<br>You can also use the Maven menu *on the right side*, or add a new run configuration, and run it from there (my favourite way).<br>
+<br>Once the process is complete, artifacts will be in `/target` directory.<br>
+<br>There's no requirement to delete MANIFEST from the jar before putting to MC folder.<br>
 
 ### Running
 To launch the client in the IDE, you need to execute Start.java, **and specify working directory to `./test_run/`**.
