@@ -14,10 +14,10 @@ Libraries are loaded from Maven.
 5. Once it indexes, the project should be ready to go! :)
 
 ### Building
-<br>To build a working .jar file, which later can be put to `/versions` in MC folder, you just need to run `mvn clean package` command.<br>
-<br>You can also use the Maven menu *on the right side*, or add a new run configuration, and run it from there (my favourite way).<br>
-<br>Once the process is complete, artifacts will be in `/target` directory.<br>
-<br>There's no requirement to delete MANIFEST from the jar before putting to MC folder.<br>
+<br>To build a working .jar file, which later can be put to `/versions` in MC folder, you just need to run `mvn clean package` command.
+You can also use the Maven menu *on the right side*, or add a new run configuration, and run it from there (my favourite way).
+Once the process is complete, artifacts will be in `/target` directory.
+There's no requirement to delete MANIFEST from the jar before putting to MC folder.
 
 ### Running
 To launch the client in the IDE, you need to execute Start.java, **and specify working directory to `./test_run/`**.
@@ -27,8 +27,8 @@ FontRenderer: "https://github.com/Godwhitelight/FontRenderer"
 Lombok: "https://projectlombok.org/"
 
 ### DMCA Takedown
-Contact me at github.progress070@slmails.com
-Please allow up to 10 business days for a reply
+Contact me at github.progress070@slmails.com<br>
+Please allow up to 10 business days for a reply<br>
 I'll take down the resource
 
 An example run configuration.
