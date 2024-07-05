@@ -1,7 +1,7 @@
 # MavenMCP 1.8.9
 
 ### About
-Vestige-v3.0 is based on Maven MCP 1.8.9 which is an updated version of MCP. It uses Maven, has a clean code structure, supports Linux and version control in your projects! (regular old MCP also supports linux macos windows idk why they said that)
+Vestige-v3.0 is based on Maven MCP 1.8.9 which is an updated version of MCP. It has a clean code structure, supports Linux and version control in your projects! (regular old MCP also supports linux macos windows idk why they said that)
 
 ### About the structure
 The code is split into two groups: Resources (assets, graphics, shaders etc.) and code.
