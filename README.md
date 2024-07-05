@@ -23,9 +23,9 @@ There's no requirement to delete MANIFEST from the jar before putting to MC fold
 To launch the client in the IDE, you need to execute Start.java, **and specify working directory to `./test_run/`**.
 
 ### Credits
-FontRenderer: "https://github.com/Godwhitelight/FontRenderer"
-Lombok: "https://projectlombok.org/"
-Maven MCP: "https://github.com/Marcelektro/MavenMCP-1.8.9"
+FontRenderer: "https://github.com/Godwhitelight/FontRenderer"<br>
+Lombok: "https://projectlombok.org/"<br>
+Maven MCP: "https://github.com/Marcelektro/MavenMCP-1.8.9"<br>
 Optifine: "https://optifine.net/copyright"
 
 ### DMCA Takedown
